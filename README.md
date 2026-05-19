@@ -12,7 +12,8 @@ This project was built to strengthen practical full stack development skills and
 
 ### https://prepwise-ai-frontend.netlify.app/ 
 ### CREDENTIALS FOR LOGIN
-MAIL-demo.prepwise@gmail.com
+MAIL- demo.prepwise@gmail.com
+
 Password-Prepwise@123
 
 ### Frontend
