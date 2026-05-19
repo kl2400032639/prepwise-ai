@@ -10,7 +10,12 @@ This project was built to strengthen practical full stack development skills and
 
 # 🌐 Live Demo
 
-### https://prepwise-ai-frontend.netlify.app/
+### https://prepwise-ai-frontend.netlify.app/ 
+### Email
+demo.prepwise@gmail.com
+
+### Password
+Prepwise@123
 
 ### Frontend
 https://prepwise-ai-frontend.netlify.app/
